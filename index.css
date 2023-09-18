@@ -1,0 +1,131 @@
+.header{
+    background: #1e3769;
+    width: 100%;
+    height:90px;
+    color: antiquewhite;
+    font-size: small;
+}
+body{
+    margin: 0%;
+    font-family: tahoma,verdana,arial,sans-serif;
+}
+.logo{
+   width: 50%;
+
+    float: left;
+    margin-top: 30px;
+    
+}
+.logo-text{
+    margin-top: 20px;
+    margin-left:100px ;
+    padding-top: 30px;
+    font-size: 30px;
+    font-family: tahoma,verdana,arial,sans-serif;
+    font-weight:bold;
+    color:white;
+    text-decoration: none;
+    
+}
+.login {
+    width: 50%;
+   float: right;
+    padding-top: 30px;
+   
+}
+
+.input-container {
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: -30px;
+}
+.input-container1{
+    background-color: #3c5a96;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.input-container1:hover{
+    background-color: #cad4ea;
+
+}
+.input-container2 a{
+    margin-left:197px ;
+    color: #b5bbc9;
+    font-size: 12px;
+    text-decoration: none;
+}
+.contents{
+    width:100%;
+    height:800px;
+     background:linear-gradient(white,#8798cf);
+}
+.leftcontainer{
+    
+    width: 50%;
+    height: 600px;
+    float: left;
+    
+}
+.paragraph{
+    font-family: 'Open Sans',sans-serif;
+    text-rendering: optimizelegibility;
+    color: #333;
+    font-size: 20px;
+    margin-left:100px;
+    padding-top: 50px;
+    font-weight: bold;
+    color: #2b416b;
+}
+.images{
+    margin-left:90px;
+    margin-top:10px ;
+    width: 550px;
+    height: auto;
+}
+.rightcontainer{
+    width: 50%;
+    height: 600px;
+    float: left;
+
+}
+.heading{
+    padding-left: 40px;
+    padding-top: 30px;
+    color: #3b4f78;
+}
+.subheading{
+    padding-left: 40px;
+    color: #3b4f78;
+    font-weight: 600;
+}
+.input-container3{
+    display: inline;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.input-container4{
+    padding-left: 40px;
+    padding-top: 30px;
+    
+
+}
+.input-container5{
+    color: #615c5c;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.paragraph2{
+    font-size: x-small;
+    padding-left: 40px;
+
+}
+.button{
+    margin-left: 100px;
+
+    background-color: #35a715;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
